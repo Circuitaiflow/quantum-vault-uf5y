@@ -1,0 +1,2 @@
+-- key: key system required (jnkie key), no keyless alternative found for this game
+loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/929c6ed4e31fe86b000ac7ce9af56999f2185b6b78cd684db478455b8df14311/download"))()
